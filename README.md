@@ -1,3 +1,3 @@
 # adi-demo
 this is my first demo
-auther -  aditya singh
+auther -  aditya singh (adi)
